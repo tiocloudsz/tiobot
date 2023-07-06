@@ -1,13 +1,13 @@
 {
-  "name": "JEROFC",
+  "name": "TIO_CLOUDSZ",
   "version": "1.1.0",
-  "description": "© JER OFC",
+  "description": "TIO",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "JER-OFC",
+  "author": "TIO",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys-md@^5.0.5",
