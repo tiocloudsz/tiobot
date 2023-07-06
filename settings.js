@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 // APIKEY OPEN AI
-global.jeropenai  = "ISI APIKEY LU AMBIL DI OPENAI.COM" // ISI APIKEY LU
+global.jeropenai  = "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" // ISI APIKEY LU
 
 // Api
 global.APIs = {
@@ -10,20 +10,20 @@ global.APIs = {
 
 // APIKEY \\
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'V19', // ISI APIKEY LU
+	'https://api.zeeoneofc.my.id': 'hsbpiP8vaksH5ED', // ISI APIKEY LU
 }
 
-global.namabot = "JER-BOTZ MD" // UBAH JADI NAMA LU
-global.namaowner = "JER" // NAMA OWNER
-global.footer_text = "© JER-BOTZ MD" + namabot // NAMA BOT
-global.pp_bot = fs.readFileSync("./image/allmenubot.jpg") // FOTO BOT MAX 50KB BIAR GA DELAY
-global.qris = fs.readFileSync("./image/qris.jpg") // FOTO QRIS MAX 50KB BIAR GA DELLAY
-global.owner = ['6283136394680'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
+global.namabot = "TIO_CLOUDSZ" // UBAH JADI NAMA LU
+global.namaowner = "TIO" // NAMA OWNER
+global.footer_text = "TIO_CLOUDSZ" + namabot // NAMA BOT
+global.pp_bot = fs.readFileSync("./image/TIO1.jpg") // FOTO BOT MAX 50KB BIAR GA DELAY
+global.qris = fs.readFileSync("./image/shareqr.jpg") // FOTO QRIS MAX 50KB BIAR GA DELLAY
+global.owner = ['6285785056491'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
 // - \\
 global.sessionName = 'session' // GAK USAH UBAH
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿'] // GAK USAH UBAH
 global.sewabot = ("SEWA CHAT OWNER") // ISI HARGA SEWA BOT LU
-global.fakelink = "https://chat.whatsapp.com/DilAplHr8eo42u0Ote9LVQ" // bebas asal jan hapus
+global.fakelink = "https://chat.whatsapp.com/DilAplHr8eo42u0Ote9Lxd" // bebas asal jan hapus
 global.grubbot = (`*INI KAK LINK GRUB NYA*\n\nhttps://chat.whatsapp.com/DilAplHr8eo42u0Ote9LVQ`) // GANTI LINK GRUB BOT LU \\
 // -- \\
 // FALSE OR TRUE \\
@@ -39,8 +39,8 @@ global.onlygrub = true // BEBAS
 global.onlypc = false // BEBAS
 // - \\
 // PEMISAH \\
-global.packname = '© JER-BOTZ' //sticker wm ubah
-global.author = 'Di Buat Oleh JER OFC' //sticker wm ganti nama kalian
+global.packname = 'TIO_CLOUDSZ' //sticker wm ubah
+global.author = 'TIO' //sticker wm ganti nama kalian
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
