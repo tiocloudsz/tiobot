@@ -826,22 +826,7 @@ global.menunya = (pushname, prefix, hituet) =>{
 │
 ╰❒
 
-╭─❒ 「 *THANKS TO* 」 
-│
-│○ Allah Swt.
-│○ Myparents
-│○ Hads
-│○ VinzDev
-│○ Misel
-│○ Fatih Arridho
-│○ Ferdiz
-│○ Zeeoneofc
-│○ Jer Ofc
-│○ All Creator Bot
-│
-╰❒
-
-📝 SUBSCRIBE YT CREATOR : https://youtube.com/@jerofc
+📝 SUBSCRIBE YT CREATOR : https://youtube.com/CLOUDSZ
 `
 }
 
