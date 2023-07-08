@@ -17,7 +17,7 @@ global.namabot = "TIO_CLOUDSZ" // UBAH JADI NAMA LU
 global.namaowner = "TIO" // NAMA OWNER
 global.footer_text = "TIO_CLOUDSZ" + namabot // NAMA BOT
 global.pp_bot = fs.readFileSync("./image/TIO1.jpg") // FOTO BOT MAX 50KB BIAR GA DELAY
-global.qris = fs.readFileSync("./image/shareqr.jpg") // FOTO QRIS MAX 50KB BIAR GA DELLAY
+global.qris = fs.readFileSync("./image/shareqr.png") // FOTO QRIS MAX 50KB BIAR GA DELLAY
 global.owner = ['6285785056491'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
 // - \\
 global.sessionName = 'session' // GAK USAH UBAH
